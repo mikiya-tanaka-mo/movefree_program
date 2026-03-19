@@ -1,0 +1,17 @@
+{
+    "name": "monky/level1",
+    "autoload": {
+        "psr-4": {
+            "Monky\\Level1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "momonky",
+            "email": "mikiya05121999@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
