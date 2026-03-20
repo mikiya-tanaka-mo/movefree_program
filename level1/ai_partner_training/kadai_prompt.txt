@@ -1,0 +1,27 @@
+###良い例
+
+
+# 役割設定
+あなたは、経験豊富なエンジニアです。
+
+# 背景・文脈
+以下のpythonコードの意図が不明です。
+def get_unique_users(user_list):
+    return list(set(user_list))
+
+
+# 指示
+このコードの意味を説明してください。
+
+# 制約条件
+諸学者にでも理解できるように、基本的なことから説明してください。
+
+# 出力形式
+要点、注意事項を箇条書きで書き出してください。
+
+
+###悪い例
+
+以下のコードを説明して
+def get_unique_users(user_list):
+    return list(set(user_list))
